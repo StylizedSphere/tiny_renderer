@@ -12,7 +12,7 @@ Output to tga image.
 
 However, this diablo model is prebuilt, which contains all the vertices and texture uv for mapping. <br>
 How does texture mapping actually works? <br>
-Here we go: <br>
+Here we go: <br> <br> <br>
 TEXTURE PARAMETERIZATION with BARYCENTRIC MAPPINGS: <br>
 Vertice x, uv coordinates calculated by this function: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361348-5e044100-cf81-11eb-9ea0-441313b89329.png)
