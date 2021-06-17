@@ -14,10 +14,10 @@ However, this diablo model is prebuilt, which contains all the vertices and text
 How does texture mapping actually works? <br>
 Here we go: <br>
 TEXTURE PARAMETERIZATION with BARYCENTRIC MAPPINGS: <br>
-Vertice x, uv coordinates calculated by this function:
+Vertice x, uv coordinates calculated by this function: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361348-5e044100-cf81-11eb-9ea0-441313b89329.png)
 <br>
-lambda calculated by this function: <br>
+lambda calculated by this function: <br> 
 ![image](https://user-images.githubusercontent.com/30485720/122361402-678da900-cf81-11eb-9bc9-245f4e01bfae.png)
 <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361420-69f00300-cf81-11eb-9163-dbb56b6ca176.png)
