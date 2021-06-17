@@ -6,6 +6,7 @@ lambda calculated by this function: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361402-678da900-cf81-11eb-9bc9-245f4e01bfae.png)
 <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361420-69f00300-cf81-11eb-9163-dbb56b6ca176.png)
+![image](https://user-images.githubusercontent.com/30485720/122364509-05827300-cf84-11eb-8544-b4df43fb8a95.png)
 <br>
 Example: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361444-707e7a80-cf81-11eb-8063-9af539475a1f.png)
@@ -13,3 +14,5 @@ Example: <br>
 Uv coordinates of x1 is: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361465-75dbc500-cf81-11eb-9c89-09de989ac174.png)
 <br>
+
+Note: N is neighbor
