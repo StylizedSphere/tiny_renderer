@@ -10,6 +10,6 @@ lambda calculated by this function: <br>
 Example: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361444-707e7a80-cf81-11eb-8063-9af539475a1f.png)
 <br>
-Uv coordinates of x1 is:
+Uv coordinates of x1 is: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122361465-75dbc500-cf81-11eb-9c89-09de989ac174.png)
 <br>
