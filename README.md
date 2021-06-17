@@ -7,7 +7,8 @@ Output to tga image.
 + Day 3: Z buffer
 + Day 4-6: ModelMatrix, ProjectionMatrix, ViewPort + Texture, Shader.
 
-![image](https://user-images.githubusercontent.com/30485720/122373057-63ff1f80-cf8b-11eb-8795-327080096e28.png) <br> <br>
+![image](https://user-images.githubusercontent.com/30485720/122374080-44b4c200-cf8c-11eb-9da2-888f4dd2bfe7.png)
+ <br> <br>
 
 However, this diablo model is prebuilt, which contains all the vertices and texture uv for mapping.
 How does texture mapping actually works?
