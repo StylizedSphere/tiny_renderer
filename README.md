@@ -29,6 +29,7 @@ N means neighbor
 <br>
 Example: <br>
 ![image](https://user-images.githubusercontent.com/30485720/122374193-5b5b1900-cf8c-11eb-8157-c69912004144.png) <br>
+fixing!! p0 is model coordinates <br>
 ![image](https://user-images.githubusercontent.com/30485720/122372612-023eb580-cf8b-11eb-945c-11373cd9702e.png) <br>
 <br>
 
