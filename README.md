@@ -14,7 +14,7 @@ Output to tga image.
 However, this diablo model is prebuilt, which contains all the vertices and texture uv for mapping. <br>
 All we did is to draw this model on the screen given vertices and texture coordinates <br>
 How does texture coordinates were created? <br>
-Here we go: <br> <br> <br>
+<br> <br> <br>
 
 TEXTURE PARAMETERIZATION with BARYCENTRIC MAPPINGS: <br>
 Vertice x, uv coordinates calculated by this function: <br>
